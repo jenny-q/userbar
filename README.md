@@ -1,3 +1,7 @@
+User bar created with functional components. Mock data imported using the faker API. Built with create-react-app.
+
+------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
