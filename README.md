@@ -1,5 +1,7 @@
 User bar created with functional components. Mock data imported using the faker API. Built with create-react-app.
 
+![alt text](https://github.com/jenny-q/userbar/blob/master/public/user.png)
+
 ------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
